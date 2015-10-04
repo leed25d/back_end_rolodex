@@ -17,8 +17,6 @@ class Rolodex():
                      'typeo': ('color', 'firstname', 'lastname', 'phonenumber', 'zipcode'),
                      }
 
-
-
     @staticmethod
     def is_numeric(arg):
         try:
